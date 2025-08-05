@@ -20,8 +20,8 @@ A clean and minimal frontend dashboard built for the **She Can Foundation** inte
 ### 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/shecan-dashboard.git
-cd shecan-dashboard
+git clone [https://github.com/DARSHITSHAH-2906/SheCanFoundation.git]
+cd SheCanFoundation
 ```
 
 ### Run Frontend
