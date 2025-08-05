@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "darshit@example.com",
+      "password": "password123",
+      "name": "Darshit Shah",
+      "referralCode": "darshit2025",
+      "totalDonations": 12000
+    },
+    {
+      "email": "jane@example.com",
+      "password": "securepwd",
+      "name": "Jane Doe",
+      "referralCode": "jane4567",
+      "totalDonations": 8500
+    },
+    {
+      "email": "john@example.com",
+      "password": "mypassword",
+      "name": "John Smith",
+      "referralCode": "johnsmith",
+      "totalDonations": 1500
+    },
+    {
+      "email": "shecanfoundation@example.com",
+      "password": "shecanfoundation",
+      "name": "She Can Foundation",
+      "referralCode": "shecanfoundation2025",
+      "totalDonations": 5500
+    }
+  ]
+}
